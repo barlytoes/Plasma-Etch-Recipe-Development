@@ -1,0 +1,28 @@
+rf_power,chamber_pressure,sf6_flow,o2_flow,etch_rate,source,notes
+20.0,10.0,40.0,40.0,800.0,Gomez (2004) Fig 3a,Opt: Baseline RF -20V.
+20.0,25.0,40.0,40.0,850.0,Gomez (2004) Fig 3a,Opt: Baseline RF -20V. Peak etch rate.
+20.0,40.0,40.0,40.0,500.0,Gomez (2004) Fig 3a,Opt: Baseline RF -20V.
+20.0,75.0,40.0,40.0,250.0,Gomez (2004) Fig 3a,Opt: Baseline RF -20V.
+40.0,10.0,40.0,40.0,900.0,Gomez (2004) Fig 3a,Opt: RF -40V.
+40.0,25.0,40.0,40.0,1100.0,Gomez (2004) Fig 3a,Opt: RF -40V.
+40.0,40.0,40.0,40.0,700.0,Gomez (2004) Fig 3a,Opt: RF -40V.
+80.0,25.0,40.0,40.0,1400.0,Gomez (2004) Fig 5a,Opt: Extracted from RF sweep.
+120.0,25.0,40.0,40.0,1700.0,Gomez (2004) Fig 5a,Opt: Extracted from RF sweep.
+160.0,25.0,40.0,40.0,1700.0,Gomez (2004) Fig 5a,Opt: Extracted from RF sweep.
+20.0,25.0,30.0,50.0,850.0,Gomez (2004) Fig 7a,Opt: Ratio 0.6.
+20.0,25.0,35.0,45.0,1500.0,Gomez (2004) Fig 7a,Opt: Ratio 0.78 (35sccm SF6 / 45sccm O2).
+20.0,25.0,40.0,40.0,1750.0,Gomez (2004) Fig 7a,Opt: Ratio 1.0 (40sccm SF6 / 40sccm O2).
+45.0,1000.0,45.0,5.0,2600.0,d'Agostino (1981),Opt: 1 Torr pressure; 10% O2.
+45.0,1000.0,40.0,10.0,3000.0,d'Agostino (1981),Opt: 1 Torr pressure; 20% O2.
+45.0,1000.0,35.0,15.0,2200.0,d'Agostino (1981),Opt: 1 Torr pressure; 30% O2.
+45.0,1000.0,30.0,20.0,1000.0,d'Agostino (1981),Opt: 1 Torr pressure; 40% O2.
+45.0,1000.0,20.0,30.0,200.0,d'Agostino (1981),Opt: 1 Torr pressure; 60% O2.
+100.0,10.0,167.0,100.2,413.3,Kim (2021) Fig 5b,Opt: Ratio 0.60; Depth ~1240nm / 3 min.
+100.0,10.0,167.0,108.5,433.3,Kim (2021) Fig 5b,Opt: Ratio 0.65; Depth ~1300nm / 3 min.
+100.0,10.0,167.0,116.9,436.6,Kim (2021) Fig 5b,Opt: Ratio 0.70; Depth ~1310nm / 3 min.
+100.0,10.0,167.0,133.6,496.6,Kim (2021) Fig 5b,Opt: Ratio 0.80; Depth ~1490nm / 3 min.
+0.0,10.0,167.0,117.0,316.6,Kim (2021) Fig 7b,Opt: 0W Bias; Depth ~950nm / 3 min.
+50.0,10.0,167.0,117.0,460.0,Kim (2021) Fig 7b,Opt: 50W Bias; Depth ~1380nm / 3 min.
+100.0,10.0,167.0,117.0,363.3,Kim (2021) Fig 7b,Opt: 100W Bias; Depth ~1090nm / 3 min.
+150.0,10.0,167.0,117.0,343.3,Kim (2021) Fig 7b,Opt: 150W Bias; Depth ~1030nm / 3 min.
+100.0,20.0,167.0,117.0,526.6,Kim (2021) Fig 9b,Opt: 20 mTorr Pressure; Depth ~1580nm / 3 min.
