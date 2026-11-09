@@ -1,0 +1,1 @@
+run_id,date,phase,rf_power_w,pressure_mtorr,sf6_sccm,o2_sccm,ar_sccm,icp_power_w,time_s,dc_bias_v,depth_nm,etch_rate_nm_min,rq_nm,ra_nm,sidewall_deg,resist_before_nm,resist_after_nm,notes

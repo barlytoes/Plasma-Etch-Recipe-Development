@@ -1,0 +1,28 @@
+source,figure,bias_value,bias_unit,pressure_mtorr,sf6_sccm,o2_sccm,o2_fraction,icp_power_w,etch_rate_nm_min,use_in_model,notes
+Gomez (2004),Fig 3a,20,V_dc,10,40,40,0.50,800,800,True,Pressure sweep at -20 V bias. 0.35-0.5 um holes; oxide mask; 5 C wafer.
+Gomez (2004),Fig 3a,20,V_dc,25,40,40,0.50,800,850,True,Pressure sweep at -20 V bias. Etch-rate peak vs pressure.
+Gomez (2004),Fig 3a,20,V_dc,40,40,40,0.50,800,500,True,Pressure sweep at -20 V bias.
+Gomez (2004),Fig 3a,20,V_dc,75,40,40,0.50,800,250,True,Pressure sweep at -20 V bias. Paper: etching nearly stopped at 75 mTorr.
+Gomez (2004),Fig 3a,40,V_dc,10,40,40,0.50,800,900,True,Pressure sweep at -40 V bias.
+Gomez (2004),Fig 3a,40,V_dc,25,40,40,0.50,800,1100,True,Pressure sweep at -40 V bias.
+Gomez (2004),Fig 3a,40,V_dc,40,40,40,0.50,800,700,True,Pressure sweep at -40 V bias.
+Gomez (2004),Fig 5a,80,V_dc,25,40,40,0.50,800,1400,True,Bias sweep at 25 mTorr.
+Gomez (2004),Fig 5a,120,V_dc,25,40,40,0.50,800,1700,True,Bias sweep at 25 mTorr. Paper: rate saturates at 1.7 um/min above -120 V.
+Gomez (2004),Fig 5a,160,V_dc,25,40,40,0.50,800,1700,True,Bias sweep at 25 mTorr.
+Gomez (2004),Fig 7a,120,V_dc,25,30,50,0.625,800,850,False,Ratio sweep. Bias corrected from 20 to 120 V (see Fig 8 caption; selectivity matches Fig 5 at -120 V). Not f=0.5.
+Gomez (2004),Fig 7a,120,V_dc,25,35,45,0.5625,800,1500,False,Ratio sweep. Bias corrected from 20 to 120 V. Not f=0.5.
+Gomez (2004),Fig 7a,120,V_dc,25,40,40,0.50,800,1750,True,Ratio sweep at R=1. Bias corrected from 20 to 120 V; agrees with Fig 5a (1700 at -120 V).
+d'Agostino (1981),Table/Fig,45,unknown,1000,45,5,0.10,,2600,False,1 Torr; different regime (not ICP). Excluded.
+d'Agostino (1981),Table/Fig,45,unknown,1000,40,10,0.20,,3000,False,1 Torr; different regime (not ICP). Excluded.
+d'Agostino (1981),Table/Fig,45,unknown,1000,35,15,0.30,,2200,False,1 Torr; different regime (not ICP). Excluded.
+d'Agostino (1981),Table/Fig,45,unknown,1000,30,20,0.40,,1000,False,1 Torr; different regime (not ICP). Excluded.
+d'Agostino (1981),Table/Fig,45,unknown,1000,20,30,0.60,,200,False,1 Torr; different regime (not ICP). Excluded.
+Kim (2021),Fig 5b,100,W,10,167,100.2,0.375,800,413.3,False,Ratio 0.60; depth ~1240 nm / 3 min. Not f=0.5.
+Kim (2021),Fig 5b,100,W,10,167,108.5,0.394,800,433.3,False,Ratio 0.65; depth ~1300 nm / 3 min. Not f=0.5.
+Kim (2021),Fig 5b,100,W,10,167,116.9,0.412,800,436.6,False,Ratio 0.70; depth ~1310 nm / 3 min. Not f=0.5.
+Kim (2021),Fig 5b,100,W,10,167,133.6,0.444,800,496.6,False,Ratio 0.80; depth ~1490 nm / 3 min. Not f=0.5.
+Kim (2021),Fig 7b,0,W,10,167,117,0.412,800,316.6,False,0 W bias; depth ~950 nm / 3 min. Not f=0.5.
+Kim (2021),Fig 7b,50,W,10,167,117,0.412,800,460,False,50 W bias; depth ~1380 nm / 3 min. Not f=0.5.
+Kim (2021),Fig 7b,100,W,10,167,117,0.412,800,363.3,False,100 W bias; depth ~1090 nm / 3 min. Not f=0.5.
+Kim (2021),Fig 7b,150,W,10,167,117,0.412,800,343.3,False,150 W bias; depth ~1030 nm / 3 min. Not f=0.5.
+Kim (2021),Fig 9b,100,W,20,167,117,0.412,800,526.6,False,20 mTorr; depth ~1580 nm / 3 min. Not f=0.5.
